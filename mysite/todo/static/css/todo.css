@@ -1,0 +1,26 @@
+h2 {
+    font-size: 100px;
+    color: #7fdb29;
+    font-weight: 800;
+    font-family: Impact;
+}
+body {
+    background: #fffcf9;
+}
+td {
+    border-top-width: 3px;
+    border-top-color: #ffe0c1;
+    background: #fdf5e6;
+}
+.message {
+    font-size: 20px;
+    font-weight: 600;
+}
+.button {
+    color: #fa8072;
+    background: #fffff0;
+}
+.del{
+    color: #a52a2a;
+    background: #b1e030d0;
+}
